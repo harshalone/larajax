@@ -3,7 +3,7 @@ larajax
 
 simple jQuery plugin to fetch pages and load them into specified HTML elements
 
-<xamp>
+<code>
 <ul>
     <li><a data-load="true" data-load-workspace="workspace" href="page1.php">page 1</a></li>
     <li><a data-load="true" data-load-workspace="workspace"  href="page2.php">page 2</a></li>
@@ -22,4 +22,4 @@ This is the container div where contents will be loaded
 
 </script>
 
-</xamp>
+</code>
